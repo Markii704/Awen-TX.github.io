@@ -69,7 +69,7 @@
 
 •<a href="https://link.zhihu.com/?target=http%3A//tv.fish/" target="_blank">大鱼影视</a>
 
-•<p align="justify">•<a href="https://link.zhihu.com/?target=https%3A//www.icinephile.com/" target="_blank">Nemo影视</a></p>
+•<a href="https://link.zhihu.com/?target=https%3A//www.icinephile.com/" target="_blank">Nemo影视</a>
 
 •<a href="https://link.zhihu.com/?target=http%3A//www.fcys.tv/" target="_blank">泡面影视</a>
 
@@ -149,6 +149,7 @@ tip：不保证每个软件都能使用，这类软件实在凉得太快了
 
 •<a href="http://www.btbttv.cc/torrent.html" target="_blank">磁力链接转种子工具</a>
 
+<img src="C:\Users\13329\Desktop\GZH表情包/0003.jpg" width="200" height="200">
 
 
 如果对你有帮助，看文章的时候，帮忙点一下公众号文章最底部的 广告 吧 (๑•̀ㅂ•́)و✧
