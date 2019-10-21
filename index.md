@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 想找资源？来这就对了！
 
-You can use the [editor on GitHub](https://github.com/Awen-TX/Awen-TX.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Awen-TX/Awen-TX.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="http://www.9rmb.com/" target="_blank">神马电影</a>
+<a href="https://www.vodsee.com/" target="_blank">卧龙资源站</a>
+<a href="https://www.nfmovies.com/" target="_blank">奈菲影视</a>
+<a href="https://www.001d.com/" target="_blank">第一电影网</a>
+<a href="http://www.vtuapp.com/" target="_blank">七年影视</a>
+<a href="http://www.kk3.tv/" target="_blank">KK3电影</a>
+<a href="https://vip.tujidu.com/vip/?url=https%3A%2F%2Fwww.iqiyi.com%2Fv_19rrek51nk.html&amp;title=%E5%9B%BE%E5%87%A0%E5%BA%A6%E5%AE%98%E7%BD%91" target="_blank">图几度</a>
+<a href="http://kushizhu.com/" target="_blank">酷视猪</a>
+<a href="http://www.p4vip.com/" target="_blank">小收影视</a>
+<a href="https://www.yynys.com/" target="_blank">悠悠鸟</a>
+<a href="http://www.tianjiyy123.com/" target="_blank">田鸡影院</a>
+<a href="http://www.haitum.cn/" target="_blank">海兔影视</a>
+<a href="https://www.jlszyy.cc/" target="_blank">达达兔</a>
