@@ -149,8 +149,5 @@ tip：不保证每个软件都能使用，这类软件实在凉得太快了
 
 •<a href="http://www.btbttv.cc/torrent.html" target="_blank">磁力链接转种子工具</a>
 
-<img src="C:\Users\13329\Desktop\GZH表情包/0003.jpg" width="200" height="200">
-
-
 如果对你有帮助，看文章的时候，帮忙点一下公众号文章最底部的 广告 吧 (๑•̀ㅂ•́)و✧
 每日有效点一次，无需下载or关注，点一下就行的  ଲ
